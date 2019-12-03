@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">U3T4Event</string>
+    <string name="btnAccept">Acceptar</string>
+    <string name="btnCancel">Cancel·lar</string>
+    <string name="btnEditEventData">Editar Dades</string>
+    <string name="date">Data: %1$s %2$s  %3$s</string>
+    <string name="etEventName">Escriu un nom per a l\'event</string>
+    <string name="etPlace">Escriu el Lloc de l\'event</string>
+    <string name="place">Lloc: %1$s</string>
+    <string name="priority">Prioritat: %1$s</string>
+    <string name="rbHigh">Alt</string>
+    <string name="rbLow">Baix</string>
+    <string name="rbMedium">Mig</string>
+    <string name="time">Hora: %1$s</string>
+    <string name="title_activity_event_data">Dades Event</string>
+    <string name="tvCurrentData">Data Actual</string>
+    <string name="tvDateTime">Posa Data i Hora</string>
+    <string name="tvNewEvent">Nou Event</string>
+    <string name="tvPlace">Lloc</string>
+    <string name="tvPriority">Prioritat</string>
+    <string name="no_data">Sense Dades</string>
+
+    <string-array name="months">
+        <item>Gener</item>
+        <item>Febrer</item>
+        <item>Març</item>
+        <item>Abril</item>
+        <item>Maig</item>
+        <item>Juny</item>
+        <item>Juliol</item>
+        <item>Agost</item>
+        <item>Setembre</item>
+        <item>Octubre</item>
+        <item>Novembre</item>
+        <item>Desembre</item>
+    </string-array>
+    <string name="tvDate">Data:</string>
+    <string name="tvTime">Hora:</string>
+</resources>

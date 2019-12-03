@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">U3T4Event</string>
+    <string name="btnAccept">Aceptar</string>
+    <string name="btnCancel">Cancelar</string>
+    <string name="btnEditEventData">Editar Datos Evento</string>
+    <string name="date">Fecha: %1$s %2$s  %3$s</string>
+    <string name="etEventName">Escribe un nombre para el evento</string>
+    <string name="etPlace">Escribe el Lugar del Evento</string>
+    <string name="place">Lugar: %1$s</string>
+    <string name="priority">Prioridad: %1$s</string>
+    <string name="rbHigh">Alto</string>
+    <string name="rbLow">Bajo</string>
+    <string name="rbMedium">Medio</string>
+    <string name="time">Hora: %1$s</string>
+    <string name="title_activity_event_data">Datos Evento</string>
+    <string name="tvCurrentData">Fecha Actual</string>
+    <string name="tvDateTime">Pon Fecha y Hora</string>
+    <string name="tvNewEvent">Nuevo Evento</string>
+    <string name="tvPlace">Lugar</string>
+    <string name="tvPriority">Prioridad</string>
+    <string name="no_data">Sin Datos</string>
+
+    <string-array name="months">
+        <item>Enero</item>
+        <item>Febrero</item>
+        <item>Marzo</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Junio</item>
+        <item>Julio</item>
+        <item>Agosto</item>
+        <item>Septiembre</item>
+        <item>Octubre</item>
+        <item>Noviembre</item>
+        <item>Deciembre</item>
+    </string-array>
+    <string name="tvDate">Fecha:</string>
+    <string name="tvTime">Hora:</string>
+</resources>

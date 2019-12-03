@@ -1,0 +1,2 @@
+include ':app', ':appActivities', ':appActivity4'
+rootProject.name='U3T4Event'

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">U3T4Event</string>
+    <string name="tvNewEvent">New Event</string>
+    <string name="etEventName">Type an event name</string>
+    <string name="tvCurrentData">Current Data</string>
+    <string name="btnEditEventData">Edit Event Data</string>
+    
+    <string name="title_activity_event_data">Event Data</string>
+    <string name="tvPlace">Place</string>
+    <string name="etPlace">Type the event Place</string>
+    <string name="tvPriority">Priority</string>
+    <string name="rbLow">Low</string>
+    <string name="rbMedium">Medium</string>
+    <string name="rbHigh">High</string>
+    <string name="tvDateTime">Set Date and Time</string>
+    <string name="tvDate">Date:</string>
+    <string name="tvTime">Time:</string>
+    <string name="btnAccept">Accept</string>
+    <string name="btnCancel">Cancel</string>
+
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    
+    <string name="priority">Priority: %1$s</string>
+    <string name="date">Date: %1$s/%2$s/%3$s</string>
+    <string name="place">Place: %1$s</string>
+    <string name="time">Time: %1$s</string>
+    <string name="no_data">No Data</string>
+
+
+</resources>
